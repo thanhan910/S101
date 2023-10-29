@@ -1,4 +1,4 @@
-# Quality Assurance Plan
+# Project Quality Assurance Plan
 
 ## References
 
